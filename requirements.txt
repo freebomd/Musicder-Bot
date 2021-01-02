@@ -1,2 +1,2 @@
-npm install
-npm install forever -g
+npm
+npm forever -g
