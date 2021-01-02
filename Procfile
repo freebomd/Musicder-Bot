@@ -1,1 +1,1 @@
-G
+forever start index.js
